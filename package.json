@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "react": "latest",
+    "react-copy-to-clipboard": "5.0.2",
+    "react-dom": "latest",
+    "react-icons": "3.10.0",
+    "react-share": "4.1.0",
+    "react-simple-chatbot": "0.6.1",
+    "styled-components": "5.1.1"
+  },
+  "keywords": [],
+  "name": "build-your-own-chatbot-tech-collective-and-richard-ng-richardcrng",
+  "description": ""
+}
